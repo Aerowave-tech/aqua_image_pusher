@@ -1,2 +1,9 @@
-aquasec/kube-bench:v0.6.9
-aquasec/kube-bench:v0.8.0
+registry.aquasec.com/console:2022.4.517
+registry.aquasec.com/database:2022.4.517
+registry.aquasec.com/gateway:2022.4.517
+registry.aquasec.com/envoy:2022.4.517
+registry.aquasec.com/scanner:2022.4.517
+registry.aquasec.com/enforcer:2022.4.517
+registry.aquasec.com/microenforcer:2022.4.517
+registry.aquasec.com/kube-enforcer:2022.4.517
+registry.aquasec.com/microenforcer-basic:2022.4.517
