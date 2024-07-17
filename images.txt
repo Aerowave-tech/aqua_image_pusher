@@ -1,3 +1,5 @@
+aquasec/starboard-operator:0.15.20
+aquasec/kube-bench:v0.8.0
 registry.aquasec.com/console:2022.4.517
 registry.aquasec.com/database:2022.4.517
 registry.aquasec.com/gateway:2022.4.517
